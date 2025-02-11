@@ -1,0 +1,1 @@
+I created these Python scripts for completing online course certifications. Four of them starting with the title "Assignment" are related ones on deep learning using Keras. Another one, as the name suggests, is on survival analysis. And the final one is on ML.    
